@@ -1,0 +1,21 @@
+.blogItem-wrap {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.blogItem-cover {
+    width: 80%;
+    height: 250;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-bottom: 0.5rem;
+
+}
+
+.blogItem-wrap h3{
+    margin: .5rem;
+
+}
+
+

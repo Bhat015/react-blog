@@ -1,0 +1,8 @@
+.chip-wrap {
+   font-size: .8rem;
+    background: linear-gradient( to right, #2d1c72, #5dd2d8);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: fit-content;
+}
